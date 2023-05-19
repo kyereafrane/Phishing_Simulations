@@ -3,7 +3,7 @@ This project considers creating Phishing email awareness as a Security Analyst b
 
 #### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Mastercard/vcKAB5yYAgvemepGQ_Mastercard_pu8TfLfGd9fZo75DR_1681554635817_completion_certificate.pdf)
 
-<h2>Skills Developed</h2>
+<h2>Practical Skills Developed</h2>
 
 <b>Cybersecurity | Technical Security Awareness | Problem Solving | Design Thinking | Communication | Security Awareness Training | Data Analysis | Data Presentation | Strategy</b> 
 
